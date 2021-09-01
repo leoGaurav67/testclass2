@@ -1,0 +1,2 @@
+block element  width  of  screen/the content is  is fully covered and in different line
+inline content dispalyed in same line

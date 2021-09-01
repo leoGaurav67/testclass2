@@ -1,0 +1,32 @@
+CSS 
+cascading style sheet
+it is used to make web layout
+types
+ internal css ->written inside <head></head> tag
+ external css ->written in external page which has extension.css
+inline css ->writen in tag itself eg <h1 style="">...</h1>
+
+basic syntax:
+
+selector{
+	properties:value;
+	eg: color:red;
+	} 
+
+intial scale no zoom in and in out and so IS is always 1.0
+tag selctor select tag of h1 for style changes
+tag doesnt need any notation but
+class has . notation to pass to head tag
+and id needs # tag to pass to " "
+
+using comma to two heading at same tag
+is called grouping selector selector which has more than two heading/group tag which require only one style.
+
+Universal selector
+uses astreix notation* for whole page for the same style
+
+Border 
+to create a box we use division
+note:we cannot use border in form login/signup form therefore we can use outline to replacing it
+
+Note to learn Margin and Padding
